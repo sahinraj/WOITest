@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.title = "Git First"
+        self.title = "Git Second"
         // Do any additional setup after loading the view, typically from a nib.
     }
 
