@@ -9,10 +9,10 @@ provides-dynamic-lookup:
 - "viewDidLoad"
 - "didReceiveMemoryWarning"
 depends-top-level:
-- "ViewController"
 - "AssignmentPrecedence"
-- !private "StringLiteralType"
+- "ViewController"
 - "UIViewController"
+- !private "StringLiteralType"
 depends-member:
 - ["Ps9AnyObject", "didReceiveMemoryWarning"]
 - !private ["Ps9AnyObject", "init"]
