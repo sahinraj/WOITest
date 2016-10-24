@@ -1,6 +1,7 @@
 version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
 options: "02a988d01ff5a02c0dc84a14d1a5bd17"
-build_time: [530346850, 470792000]
+build_time: [530606114, 716488000]
 inputs:
-  "/Users/sraj/Desktop/Projects/WoiGitTest/WoiGitTest/ViewController.swift": [530346848, 0]
+  "/Users/sraj/Desktop/Projects/WoiGitTest/WoiGitTest/ViewController.swift": [530605917, 0]
+  "/Users/sraj/Desktop/Projects/WoiGitTest/WoiGitTest/FirstView.swift": [530606114, 0]
   "/Users/sraj/Desktop/Projects/WoiGitTest/WoiGitTest/AppDelegate.swift": [530346848, 0]
